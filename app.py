@@ -12,8 +12,5 @@ st.latex(r'''
 st.subheader("Image :")
 st.image("changyong.jpg")
 
-# st.subheader("Audio :")
-# st.audio("Audio.mp3")
-
-# st.subheader("Video :")
-# st.video("video.mp4")
+st.subheader("Video :")
+st.video("shorts.mp4")
