@@ -10,10 +10,10 @@ st.latex(r'''
 구독자 만명 공약 : 학점 4점대로 만들겠습니다 ''')
 
 st.subheader("Image :")
-st.image("kid.jpg")
+st.image("changyong.jpg")
 
-st.subheader("Audio :")
-st.audio("Audio.mp3")
+# st.subheader("Audio :")
+# st.audio("Audio.mp3")
 
-st.subheader("Video :")
-st.video("video.mp4")
+# st.subheader("Video :")
+# st.video("video.mp4")
