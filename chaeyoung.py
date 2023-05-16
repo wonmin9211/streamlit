@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.title("챙용잉의 유튜브")
-st.markdown("https://www.youtube.com/@coddyddld0420")
 st.markdown("동아대학교 컴퓨터공학과 22학번 1짱 이채영")
+st.markdown("https://www.youtube.com/@coddyddld0420")
 st.header("챙용잉의 다이어트")
 st.subheader("폴댄스 영상도 재밌어요")
 st.caption("챙용잉 구독해주세요!")
