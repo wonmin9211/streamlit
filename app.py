@@ -1,10 +1,10 @@
 import streamlit as st
 
-st.title("this is the app title")
-st.markdown("this is the markdown")
-st.header("this is the header")
-st.subheader("this is the subheader")
-st.caption("this is the caption")
-st.code("x=2021")
+st.title("챙용잉의 유튜브")
+st.markdown("https://www.youtube.com/@coddyddld0420")
+st.header("챙용잉의 다이어트")
+st.subheader("폴댄스 영상도 재밌어요")
+st.caption("챙용잉 구독해주세요!")
+st.code("# 동아대학교 컴퓨터공학과 22학번 이채영")
 st.latex(r'''
-a + a r ^1+ a r^2 + a r^3 ''')
+구독자 만명 공약 : 학점 4점대로 만들겠습니다 ''')
