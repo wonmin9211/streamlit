@@ -8,3 +8,12 @@ st.caption("챙용잉 구독해주세요!")
 st.code("# 동아대학교 컴퓨터공학과 22학번 이채영")
 st.latex(r'''
 구독자 만명 공약 : 학점 4점대로 만들겠습니다 ''')
+
+st.subheader("Image :")
+st.image("kid.jpg")
+
+st.subheader("Audio :")
+st.audio("Audio.mp3")
+
+st.subheader("Video :")
+st.video("video.mp4")
